@@ -1,1 +1,2 @@
-Hang on file
+Hang on file new changes in this file will override the ones before `:wq
+
